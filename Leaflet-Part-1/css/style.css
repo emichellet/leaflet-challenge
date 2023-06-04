@@ -8,3 +8,36 @@ body,
 html {
   height: 100%;
 }
+
+/* Set Legend Style */
+.info {
+  padding:  10px;
+  background: #fefffe;
+  border-radius: 5px;
+}
+
+.legend {
+  line-height: 25px;
+  color: #000000;
+}
+
+.legend i {
+  width: 20px;
+  height: 18px;
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px;
+  opacity: 0.75;
+}
+
+h3 {
+  margin: 10px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  margin: -5px;
+  padding: -6px;
+  font-family: Arial, Helvetica, sans-serif;
+}
